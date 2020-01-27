@@ -2,9 +2,11 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+Some information about you! 
+hello world
 
 ### More Information
 
