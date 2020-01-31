@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About
-permalink: /about/
-published: true
----
+permalink: "/about/"
 
-Some information about you! 
+---
+Some information about you!
 hello world
 
 ### More Information
 
 A place to include any other types of information that you'd like to include about yourself.
+
+Here is some new content
 
 ### Contact me
 
